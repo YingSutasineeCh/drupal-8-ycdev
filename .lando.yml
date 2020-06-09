@@ -1,0 +1,5 @@
+name: drupal8-yc-dev
+recipe: drupal8
+config:
+  webroot: web
+  via: apache
